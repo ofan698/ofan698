@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ofan698
+- 👋 Hi, I’m Ofan
 - 👀 I’m interested in Gaming and Programming 
 - 🌱 I’m currently learning Webdev Framework
 - 💞️ I’m looking to collaborate on ...
